@@ -97,6 +97,7 @@ teams:
    - micahhausler
    - nckturner
    - wongma7
+   - nnmin-aws
    privacy: closed
    repos:
      aws-iam-authenticator: write
